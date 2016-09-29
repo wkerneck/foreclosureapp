@@ -5,7 +5,7 @@ Foreclosed properties are auctioned back to the public when the previous owners 
 
 <strong>Project Contributors:</strong>
 
-Claire Chu
-Chris Woodard
-Bill Kerneckel
-Kyle Killion
+Claire Chu<br>
+Chris Woodard<br>
+Bill Kerneckel<br>
+Kyle Killion<br>
